@@ -1,8 +1,8 @@
 <div align="center">
 
-## hey, I'm Deepshika 👋🐱
+## Hey, I'm Deepshika 👋🐱
 
-*software engineer · problem untangler · occasional cat enthusiast*
+*code · coffee · curiosity ☕💻 · occasional cat admirer 🐱*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepshikamekala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-C4704A?style=for-the-badge&logo=firefox&logoColor=white)](https://deepshika-mekala.github.io/deepshikamekala/)
@@ -16,7 +16,6 @@
 
 > Some people write code. I untangle problems — then write the code.
 
-🏢 Software engineer @ IBM Canada
 
 🎓 MEng Electrical & Computer Engineering · University of Calgary
 
