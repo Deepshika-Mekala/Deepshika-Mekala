@@ -40,13 +40,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
 
-## 📌 pinned highlights
-
-Check out my pinned repos below ↓
-
-Each one has a proper README with context, screenshots, and setup steps.
 
 ---
 
