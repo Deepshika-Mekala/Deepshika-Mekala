@@ -4,7 +4,7 @@
 
 *software engineer · problem untangler · occasional cat enthusiast*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepshika-mekala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/deepshika-mekala](https://www.linkedin.com/in/deepshikamekala/)])
 [![Portfolio](https://img.shields.io/badge/Portfolio-C4704A?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepshikashalini@gmail.com)
 
@@ -48,18 +48,6 @@
 Check out my pinned repos below ↓
 
 Each one has a proper README with context, screenshots, and setup steps.
-
----
-
-## github stats
-
-<div align="center">
-
-![Deepshika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepshika-Mekala&show_icons=true&theme=rose_pine&hide_border=true&title_color=C4704A&icon_color=C4704A)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepshika-Mekala&layout=compact&theme=rose_pine&hide_border=true&title_color=C4704A)
-
-</div>
 
 ---
 
