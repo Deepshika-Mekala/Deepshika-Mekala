@@ -15,19 +15,16 @@ Some people write code. I untangle problems — then write the code.
 
 
 🛠 tech stack
-LanguagesJava · Python · SQL · Shell ScriptDatabasesOracle · PostgreSQLToolsJenkins · Git · Bitbucket · LinuxCloudAWS · Azure
+Languages: Java · Python · SQL · Shell Script
+Databases: Oracle · PostgreSQL
+Tools: Jenkins · Git · Bitbucket · Linux
+Cloud: AWS · Azure
 
 📌 pinned highlights
 
 check out my pinned repos below ↓
 each one has a proper README with context, screenshots, and setup steps
 
-
-github stats
-<div align="center">
-Show Image
-Show Image
-</div>
 
 <div align="center">
 open to new opportunities · always up for a good engineering problem
