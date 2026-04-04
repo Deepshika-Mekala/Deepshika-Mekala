@@ -2,7 +2,7 @@
 
 ## Hey, I'm Deepshika 👋🐱
 
-* code · coffee · curiosity ☕💻 *
+ code · coffee · curiosity ☕💻 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepshikamekala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-C4704A?style=for-the-badge&logo=firefox&logoColor=white)](https://deepshika-mekala.github.io/deepshikamekala/)
