@@ -14,7 +14,7 @@
 
 ## about me
 
-> Some people write code. I untangle problems, then write the code !!!.
+Some people write code. I untangle problems, then write the code !!!.
 
 
 🎓 MEng Electrical & Computer Engineering · University of Calgary
