@@ -12,7 +12,7 @@
 
 ---
 
-## about me
+## ✨ About me ✨
 
 💫 Some people write code. I untangle problems, then write the code !!! 💫.
 
